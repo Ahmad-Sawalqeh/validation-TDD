@@ -2,8 +2,7 @@
 
 # LAB - Class 01
 
-## Project Name
-Node Ecosystem
+## Node Ecosystem
 
 ### Author: Ahmad Sawalqeh
 
