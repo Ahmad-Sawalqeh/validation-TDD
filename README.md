@@ -1,28 +1,32 @@
 # validation-TDD
 
-# Node Ecosystem, TDD, CI/CD
+# LAB - Class 01
 
-Application development in the NodeJS ecosystem, including the writing of modular code using CommonJS modules, writing tests to assert code quality, setting up and working in a "Continuous Integration"  environment (Github Actions).
+## Node Ecosystem
 
-## Learning Objectives
+### Author: Ahmad Sawalqeh
 
-### Students will be able to
+### Links and Resources
 
-#### Describe and Define
+- [submission PR](https://github.com/Ahmad-Sawalqeh/validation-TDD/pull/2)
+- [ci/cd](https://github.com/Ahmad-Sawalqeh/validation-TDD/commit/40d31502b7ee14715dd4591817ed0e9524bc6fbe/checks?check_suite_id=410799685) (GitHub Actions)
 
-- Node and the V8 Engine
-- Test Driven Development: Pros and Cons
-- Continuous Integration and Deployment
+### Setup
+run `npm i`
 
-#### Execute
+#### How to initialize/run your application (where applicable)
+run `npm test` to check all test.
 
-- Setup a NodeJS Package using npm
-- Create CommonJS modules
-- Write unit test for javascript code
-- Setup Github Actions for their repositories for live build testing
+#### Tests
 
-## Today's Outline
+- How do you run tests?<br>
+  run `npm test`
 
-- Topic 1
-- Topic 2
-- ...
+- Any tests of note?
+  - Test if the input is a Strings
+  - Test if the input is a Number
+  - Test if the input is an Object
+  - Test if the input is a Array
+  - Test if the input is a Boolean
+  - Test if the input is a Function
+
